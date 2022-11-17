@@ -22,10 +22,17 @@ This file shows the results obtained for the *Plants system*. This system has th
 
 
 In each file there are:
-1) the relational bases of input
-2) the dendrogram produced by the syntactic analysis
-3) the result obtained from the clustering of the syntactic analysis
-4) the dendrogram produced by the semantic analysis
-5) the SOM grid obtained during the semantic analysis
-6) the result obtained from the semantic analysis clustering
-7) the reconciled source schema
+* Input
+  * the relational databases of input
+
+* Syntactic Analysis
+  * the dendrogram produced by the syntactic analysis
+  * the result obtained from the clustering of the syntactic analysis
+
+* Semantic Analysis
+  * the dendrogram produced by the semantic analysis
+  * the SOM grid obtained during the semantic analysis
+  * the result obtained from the semantic analysis clustering
+
+* Output
+  * the reconciled source schema
