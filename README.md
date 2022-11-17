@@ -22,7 +22,7 @@ This file shows the results obtained for the *Plants system*. This system has th
 
 
 In each file there are:
-1) the two relational bases of input
+1) the relational bases of input
 2) the dendrogram produced by the syntactic analysis
 3) the result obtained from the clustering of the syntactic analysis
 4) the dendrogram produced by the semantic analysis
