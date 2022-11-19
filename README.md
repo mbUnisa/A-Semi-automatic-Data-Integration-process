@@ -23,7 +23,7 @@ This file shows the results obtained for the *Panda system*. This system aims to
 This file shows the results obtained for the *Plants system*. This system has the objective of building a Data Warehouse for the management of nursery plants services, integrating tw*sources from two different companies (but which nonetheless work in the nursery plants sector). In particular, these are two relational database. *"DB Vivaio E-commerce"*, a database of a nursery plants company that sells plants and provides related services; *"DB Vivaio Interventi"*, a database of a company that deals exclusively with the supply of nursery services, consisting of activities similar to those carried out by the first company.
 
 
-In each file there are:
+In each *pdf file* there are:
 * Input
   * the relational databases of input
 
